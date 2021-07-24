@@ -1,14 +1,22 @@
 {
-  "name": "clase11html",
+  "name": "mercadoLiebre",
   "version": "1.0.0",
-  "description": "",
+  "description": "proyecto mercadoliebre",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-rivero1993/mercadoliebre-Lucas.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-rivero1993/mercadoliebre-Lucas/issues"
+  },
+  "homepage": "https://github.com/lucas-rivero1993/mercadoliebre-Lucas#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
