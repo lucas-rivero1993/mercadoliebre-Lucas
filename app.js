@@ -18,6 +18,6 @@ app.get('/register', (req,res)=>{
     res.sendFile(__dirname + '/views/register.html');
 });
 
-app.listen (process.env.PORT || 3000, ()=>{
+app.listen(process.env.PORT || 3000, ()=>{
     console.log ('El servidor esta corriendo en el puesto 3000')
 });
